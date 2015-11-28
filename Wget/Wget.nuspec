@@ -7,12 +7,11 @@
     <authors>Giuseppe Scrivano</authors>
     <owners>H. Alan Stevens, John Reilly</owners>
     <licenseUrl>http://www.gnu.org/copyleft/gpl.html</licenseUrl>
-    <projectUrl>http://users.ugent.be/~bpuype/wget/</projectUrl>
-    <iconUrl>https://github.com/alanstevens/ChocoPackages/raw/master/Wget/wget.jpg</iconUrl>
+    <projectUrl>https://eternallybored.org/misc/wget/</projectUrl>
+    <iconUrl>https://github.com/johnnyreilly/ChocoPackages/raw/master/Wget/wget.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP, the most widely-used Internet protocols. It is a non-interactive commandline tool, so it may easily be called from scripts, cron jobs, terminals etc. GNU Wget has many features to make retrieving large files or mirroring entire web or FTP sites easy.
-    | Please install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
-    <summary>GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP.</summary>
+    <description>GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP, the most widely-used Internet protocols. It is a non-interactive commandline tool, so it may easily be called from scripts, cron jobs, terminals etc. GNU Wget has many features to make retrieving large files or mirroring entire web or FTP sites easy.</description>
+    <summary>A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.</summary>
     <tags>wget http download chocolatey</tags>
   </metadata>
 </package>
